@@ -1,4 +1,4 @@
-name: CICD build
+name: CICD builds
 on:
   push:
     branches:
